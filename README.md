@@ -38,26 +38,26 @@ Before running this application, ensure you have the following installed:
 ## 🔧 Installation
 
 1. **Clone the repository**
-   ```bash
+   \`\`\`bash
    git clone https://github.com/sanzal-fi/Finance-Analyzer.git
    cd Finance-Analyzer
-   ```
+   \`\`\`
 
 2. **Install dependencies**
-   ```bash
+   \`\`\`bash
    npm install
-   ```
+   \`\`\`
 
 3. **Set up environment variables**
-   ```bash
+   \`\`\`bash
    cp .env.example .env
    # Edit .env file with your API keys and configuration
-   ```
+   \`\`\`
 
 4. **Start the development server**
-   ```bash
+   \`\`\`bash
    npm start
-   ```
+   \`\`\`
 
 5. **Open your browser**
    Navigate to `http://localhost:3000` to access the application.
@@ -99,17 +99,17 @@ We welcome contributions to Finance-Analyzer! Please follow these steps:
 
 1. **Fork the repository**
 2. **Create a feature branch**
-   ```bash
+   \`\`\`bash
    git checkout -b feature/your-feature-name
-   ```
+   \`\`\`
 3. **Commit your changes**
-   ```bash
+   \`\`\`bash
    git commit -m "Add your commit message"
-   ```
+   \`\`\`
 4. **Push to the branch**
-   ```bash
+   \`\`\`bash
    git push origin feature/your-feature-name
-   ```
+   \`\`\`
 5. **Create a Pull Request**
 
 ### Development Guidelines
